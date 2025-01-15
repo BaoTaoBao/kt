@@ -1,0 +1,1136 @@
+1   Phương pháp phân tích thiết kế có cấu trúc bắt nguồn từ:   
+A   Cách tiếp cận hệ thống   1
+B   Cách tiếp cận kỹ thuật   
+C   Cách tiếp cận xã hội   
+D   Cách tiếp cận có cấu trúc   
+      
+      
+2   Mục tiêu nghiên cứu hệ thống thông tin nhằm:   
+A   Hiểu biết rõ hơn về hệ thống   
+B   Tác động lên hệ thống một cách hiệu quả   
+C   Hoàn thiện hệ thống hay thiết kế hệ thống mới   
+D   Hiểu biết hệ thống cũ và thiết kế hệ thống mới   1
+      
+      
+3   Hệ thống là:   
+A   Tập hợp các phần tử và các mối quan hệ   
+B   Gồm các phần tử, tạo thành thể thống nhất, sinh ra tính trồi hệ thống   
+C   Gồm các phần tử độc lập với các mối quan hệ   
+D   Tập hợp các phần tử có mối quan hệ thống nhất với nhau   1
+      
+      
+4   Hệ thống có sự trao đổi giữa input và output với môi trường qua giao diện là   
+A   Hệ thống mở   1
+B   Hệ thống động   
+C   Hệ Xibecnitic   
+D   Hệ thích nghi   
+      
+      
+5   Tính chất của hệ thống quyết định cơ chế vận hành của nó
+là:   
+A   Tính có cấu trúc   1
+B   Tính nhất thể   
+C   Tính tổ chức có thứ bậc   
+D   Tính thống nhất   
+      
+      
+6   Thực chất của việc xây dựng HTTT trong một tổ chức là:   
+A   Thiết kế nghiệp vụ   
+B   Thiết kế phần mềm   
+C   Thiết kế phần cứng   
+D   Thiết kế lại tổ chức   1
+      
+      
+7   Các giai đoạn trung tâm trong quá trình phát triển một
+HTTT là:   
+A   Phân tích   
+B   Thiết kế   
+C   Phân tích và thiết kế   1
+D   Mã hoá và kiểm thử   
+      
+      
+8   Mô hình có đưa vào yếu tố phân tích rủi ro là mô hình   
+A   Vòng đời cổ điển   
+B   Làm bản mẫu   
+C   Xoắn ốc   1
+D   4GT   
+ 
+               
+               
+9   Tiếp cận hệ thống là một phương pháp khoa học trong nghiên
+cứu và giải quyết :            
+A   Các vấn đề kinh tế - xã hội            1
+B   Riêng vấn đề kỹ thuật            
+C   Riêng vấn đề quản lý            
+D   Không thuộc các vấn đề kể trên            
+               
+               
+10   Mục tiêu nghiên cứu hệ thống (HT) nhằm:            
+A   Chỉ để hiểu biết rõ hơn về hệ thống, hoàn thiện HT            
+B   Chỉ để tác động lên HT một cách hiệu quả hoặc hoàn thiện HT            
+C   Thiết kế HT mới, hiểu rõ hơn về hệ thống            
+D   Chỉ để hiểu biết rõ hơn về hệ thống, chỉ để tác động lên HT
+một cách hiệu quả hoặc hoàn thiện HT, thiết kế HT mới            1
+               
+               
+11   Hệ thống thông tin là trung gian giữa            
+A   Hệ tác nghiệp và hệ quyết định            1
+B   Hệ tác nghiệp và các phòng ban            
+C   Hệ quyết định và tác nhân            
+D   Hệ quyết định và phòng ban            
+               
+               
+12   Các giai đoạn trung tâm trong quá trình phát triển một hệ thống
+thông tin là:         
+A   Phân tích và khảo sát            
+B   Thiết kế và lập dự án            
+C   Khảo sát và thiết kế            
+D   Phân tích và thiết kế            1
+               
+               
+ 
+13   "Không được xuất lô thuốc quá thời hạn" là :            
+A   Quy tắc Tổ chức            
+B   Quy tắc Kỹ thuật            
+C   Quy tắc Quản lý            1
+D   Quy tắc Chọn lọc            
+               
+               
+14   "Lô thuốc sắp hết hạn phải xuất trước" là:         
+A   Quy tắc Tổ chức            
+B   Quy tắc Kỹ thuật            
+C   Quy tắc Quản lý            
+D   Quy tắc Chọn lọc            1
+               
+               
+15   "Sử dụng máy in liên tục không quá l giờ" là:            
+A   Quy tắc Tổ chức            
+B   Quy tắc Kỹ thuật            1
+C   Quy tắc Quản lý            
+D   Quy tắc Nghiệp vụ            
+               
+               
+16   "Chỉ xuất hàng vào các buổi sáng, nhập hàng vào các buổi
+chiều" là:      1      
+A   Quy tắc Tổ chức            1
+B   Quy tắc Kỹ thuật            
+C   Quy tắc Quản lý            
+D   Quy tắc Chọn lọc            
+               
+               
+17   "Nghỉ học phải xin phép" là:            
+A   Quy tắc Tổ chức            
+B   Quy tắc Kỹ thuật            
+ 
+C   Quy tắc Quản lý            1
+D   Quy tắc Nghiệp vụ            
+               
+               
+18   Kỹ thuật phân mức mô hình sử dụng:            
+A   Cách tiếp cận top-down            1
+B   Cách tiếp cận down-top            
+C   Cách tiếp cận có cấu trúc            
+D   Cách tiếp cận khác            
+               
+               
+19   Quy tắc "Vào khách sạn trước hết phải qua lễ tân" là quy tắc:         
+A   Tổ chức            
+B   Kỹ thuật            
+C   Quản lý            1
+D   Chọn lọc            
+               
+               
+20   Quy tắc "trước khi xuất hàng phải nhập kho" là quy tắc:            
+A   Tổ chức            1
+B   Kỹ thuật            
+C   Quản lý            
+D   Nghiệp vụ            
+               
+               
+21   Kỹ thuật phân mức mô hình sử dụng:            
+A   Cách tiếp cận top-down            1
+B   Cách tiếp cận down-top            
+C   Cách tiếp cận có cấu trúc            
+D   Cách tiếp cận phân nhánh            
+               
+ 
+               
+22   Hoạt động nào được thực hiện khi khởi đầu một dự án            
+A   Xây dựng cấu trúc            
+B   Thiết kế mức logic            
+C   Lên kế hoạch            1
+D   Xác định yêu cầu            
+               
+               
+
+23   Trong phương thức xử lý thông tin, quá trình xử lý thông tin được thực hiện từng phần, xem kẽ giữa phần thực hiện bởi
+người và phần thực hiện bởi máy tính được gọi là?   
+   
+1   
+   
+A   Xử lý giao dịch            
+B   Xử lý tương tác            1
+C   Xử lý theo lô            
+D   Xử lý theo thời gian thực            
+               
+               
+24   Yêu cầu có thể chia ra thành các yêu cầu         
+A   Chức năng, phi chức năng            
+B   Chức năng, phi chức năng, yêu cầu hệ thống            
+C   Chức năng, phi chức năng, yêu cầu miền ứng dụng            1
+D   Chức năng, phi chức năng, yêu cầu nghiệp vụ            
+               
+               
+25   Hai thành phần cơ bản của hệ thống thông tin là?         
+A   Các dữ liệu và Các xử lý            1
+B   Các dữ liệu và Các điều khiển            
+C   Các điều khiển và Các xử lý            
+D   Các điều khiển và các dữ liệu            
+               
+               
+26   Loại tài liệu nào giải thích cho các khái niệm thành phần trong      
+ 
+   hệ thống?            
+A   Báo cáo khảo sát thực tế            1
+B   Tài liệu đặc tả tiến trình            
+C   Từ điển dữ liệu            
+D   Các loại biểu đồ            
+               
+               
+
+27   Ai là người cung cấp thông tin để lập kế hoạch dự án, phát triển phần mềm các công việc phải làm, các sản phẩm chuyển giao
+và các ước lượng   
+   
+1   
+   
+A   Nhà tài trợ dự án            
+B   Khách hàng            
+C   Nhóm chuyên môn            1
+D   Doanh nghiệp            
+               
+               
+28   Nội dùng nào sau đây không phải là một trong  bước quản lý
+rủi ro      1      
+A   Khử bỏ rủi ro            
+B   Dự án được rút ngắn hoặc kéo dài            1
+C   Vẫn trong kiểm soát khi có sự cố xảy ra            
+D   Giảm bớt tác động rủi ro            
+               
+               
+29   Mục đích của quá trình khảo sát hiện trạng nhằm để         
+A   Tiếp cận với nghiệp vụ chuyên môn, môi trường hoạt động của
+hệ thống            1
+B   Thương lượng với khách hàng để ký kết hợp đồng            
+C   Thiết kế hệ thống            
+D   Phân tích hệ thống            
+               
+               
+30   Những khó khăn khi đưa ra yêu cầu là         
+ 
+A   Phạm vi giới hạn            
+B   Hiểu rõ những yêu cầu người dùng            
+C   Sự thay đổi            
+D   Phạm vi, yêu cầu người dùng và các thay đổi            1
+               
+               
+31   Bảng câu hỏi được dùng để tập hợp thông tin khi            
+A   Người sử dụng có nhiều nơi khác nhau            
+B   Người sử dụng cần phải thích hợp với câu hỏi            1
+C   Người sử dụng không hợp tác            
+D   Người dùng không có đủ thời gian để phỏng vấn            
+               
+               
+32   Giai đoạn đầu tiên của vòng đời phát triển hệ thống thông tin
+là            
+A   Phân tích            1
+B   Thiết kế            
+C   Lập kế hoạch dự án            
+D   Xác định và lựa chọn dự án            
+               
+               
+33   Nhiệm vụ của giai đoạn phân tích là phải trả lời những câu hỏi:            
+A   Đầu vào (input) của hệ thống là gì, Đầu ra (output): kết quả xử
+lý của hệ thống là gì?            
+B   Những quá trình cần xử lý trong hệ thống, hay hệ thống phần
+mềm sẽ xử lý những cái gì?            
+C   Những ràng buộc trong hệ thống, chủ yếu là mối quan hệ giữa
+đầu vào và đầu ra như thế nào?            
+D   Đầu vào của hệ thống là gì, đầu ra: kết quả xử lý của hệ thống
+là gì?, những quá trình cần xử lý trong hệ thống            1
+               
+               
+34   Mô hình phân cấp chức năng dùng để            
+ 
+A   Xác định phạm vi hệ thống được nghiên cứu            1
+B   Xác định tiến trình xử lý            
+C   Phân định dữ liệu            
+D   Mô tả tổ chức            
+               
+               
+35   Tên của chức năng trong mô hình phân cấp chức năng là            
+A   Động từ            1
+B   Danh từ            
+C   Tính từ            
+D   Trạng từ            
+               
+               
+36   Trong sơ đồ luồng dữ liệu (DFD) thành phần nào có thể vẽ lại
+ở nhiều nơi:            
+A   Kho dữ liệu và tác nhân ngoài            1
+B   Dòng thông tin tiến trình            
+C   Tiến trình và tác nhân ngoài            
+D   Tiến trình và dòng thông tin            
+               
+               
+37   Mô hình luồng dữ liệu hệ thống khác mô hình luồng dữ liệu
+nghiệp vụ ở chỗ:            
+A   Chỉ rõ chức năng nào người làm, máy làm            1
+B   Chỉ rõ chức năng nào máy và người chung làm            
+C   Không chỉ rõ chức năng nào người làm, chức năng nào máy
+làm            
+D   Mô hình biểu diễn            
+               
+               
+38   Thiết kế hướng đối tượng khác thiết kế hướng chức năng ở chỗ            
+A   Có dữ liệu dùng chung            
+B   Không có vùng dữ liệu dùng chung            1
+ 
+C   Các đối tượng là các thực thể phụ thuộc nhau rất chặt            
+D   Quan tâm nhiều hơn đến mối liên kết            
+               
+               
+39   Các đặc trưng KHÔNG được thể hiện trong sơ đồ luồng dữ
+liệu :            
+A   Chức năng logic            
+B   Chuyển giao dữ liệu            
+C   Đặc trưng điều khiển            1
+D   Đặc trưng dữ liệu            
+               
+
+40   
+ 
+Hoạt động của một hệ thống xử lý bán hàng như sau: Khi khách hàng gửi một đơn đặt hàng cho bộ phận tiếp nhận đơn hàng,
+bộ phận này sẽ nhận đơn đặt hàng và trả một biên lai cho khách hàng. Các dữ liệu liên quan tới quá trình nhận đơn hàng
+sẽ được lưu giữ trong tệp Giao dịch. Cuối ngày, người ta tiến hành xử lý các giao dịch bằng cách lấy các dữ liệu trong
+tệp Giao dịch kết hợp với việc tra cứu dữ liệu của tệp Kiểm soát bán hàng. Sau đó, các dữ liệu lại được cập nhật vào tệp
+Kiểm soát bán hàng, đồng thời một sô dữ liệu được chọn lọc sẽ được lưu trữ vào tệp Phân tích bán hàng. Dữ liệu của tệp 
+phân tích bán hàng lại được sử dụng để chuẩn bị cho quá trình phân tích bán hàng. Kết quả được chọn của quá trình phân
+tích bán hàng sẽ được gửi cho những người quản lý có liên quan.
+Hãy cho biết  thành phần của hệ thống còn THIẾU trên biểu đồ DFD trên:            
+A   Nhận đơn, biên lai, kiểm soát bán hàng, phân tích bán hàng            
+B   Phân tích bán hàng, xử lý giao dịch, nhận đơn, biên lai            
+C   Biên lai, Giao dịch, Phân tích bán hàng, phân tích bán hàng            1
+D   Biên lai, giao dịch, kiểm soát bán hàng, phân tích bán hàng            
+               
+               
+41   Tên của luồng dữ liệu là:            
+A   Tính từ            
+B   Danh từ            1
+C   Động từ            
+D   Trạng từ            
+               
+               
+42   Mô hình luồng dữ liệu hệ thống khác mô hình luồng dữ liệu
+nghiệp vụ ở chỗ:            
+A   Chức năng nào người làm            
+B   Chức năng nào máy làm            
+C   Chức năng của người làm và máy làm            1
+D   Không phải người làm cũng không phải máy làm            
+               
+               
+43   Phương pháp chức năng được dùng nhiều hơn phương pháp
+đối tượng vì            
+A   Việc xác định thực thể khó khăn hơn            
+B   Tính che dấu thông tin trong từng đối tượng            
+C   Tính thừa kế            1
+D               
+               
+               
+44   “Khách hàng thực hiện chi trả một khoản vay” được thể hiện
+thành…….trong biểu đồ DFD            
+A   Dữ liệu            
+B   Luồng dữ liệu            1
+C   Chức năng            
+D   Tác nhân            
+               
+               
+45   Đối tượng trung gian giữa các tác nhân và xử lý cũng như kho
+dữ liệu là :            
+A   Bảng quyết định            
+B   Dòng dữ liệu            1
+C   Mô hình thực thể            
+D   Lược đồ dữ liệu            
+               
+               
+46   Lưu thông tin khách hàng được thể hiện là một   trong biểu
+đồ DFD            
+A   Luồng dữ liệu            
+B   Kho dữ liệu            
+C   Tác nhân            
+D   Xử lý            1
+               
+               
+47   Biểu đồ cho thấy sự phân rã chức năng từ tổng quát đến chi
+tiết            
+A   Biểu đồ luồng dữ liệu            
+B   Biểu đồ phân cấp chức năng            1
+C   Biểu đồ phân cấp            
+ 
+D   Biểu đồ tổng quát            
+               
+               
+48   Sự khác nhau giữa Biểu đồ phân cấp chức năng với sơ đồ tổ
+chức của một cơ quan là?            
+A   Sơ đồ tổ chức thể hiện các bộ phận, các tổ chức hợp thành cơ
+quan            1
+B   Sơ đồ tổ chức thể hiện mức phân bố các chức năng từ cao
+xuống thấp            
+C   Sơ đồ tổ chức thể hiện cái nhìn tổng quát hệ thống của một cơ
+quan            
+D   Sơ đồ tổ chức thể hiện các nghiệp vụ            
+               
+               
+49   Phát biểu đúng về một tác nhân của hệ thống            
+A   Một thực thể ngoài hệ thống            
+B   Có trao đổi thông tin với hệ thống            
+C   Một thực thể bên trong hệ thống            1
+D   Không trao đổi thông tin với hệ thống            
+               
+               
+50   Phát biểu nào sau đây là đúng?            
+A   Một xử lý có thể chỉ có một luồng dữ liệu vào và không có
+luồng dữ liệu ra            
+B   Một xử lý có thể không có luồng dữ liệu đi vào/đi ra            
+C   Một xử lý phải có ít nhất một luồng dữ liệu vào và một luồng
+dữ liệu ra            1
+D   Một xử lý chỉ cần luồng dữ liệu vào / đi ra            
+               
+               
+51   Mô hình chức năng của hệ thống (FHD) cho biết?            
+A   Hệ thống thực hiện những công việc gì            1
+B   Mô hình dữ liệu của hệ thống            
+C   Qúa trình xử lý của hệ thống            
+D   Lựa chọn khác            
+               
+               
+
+52   Loại biểu đồ nhằm diễn tả một quá trình xử lý thông tin ở mức
+logic, nhằm trả lời câu hỏi "Làm gì?" mà bỏ qua câu hỏi là "Làm như thế nào"… là?      
+A   Biểu đồ phân tích            
+B   Biểu đồ luồng dữ liệu            1
+C   Biểu đồ tổng quát            
+D   Biểu đồ thực thể kết hợp            
+               
+               
+53   Trong biểu đồ luồng dữ liệu, một chức năng được biểu diễn
+bởi?            
+A   Một hình tròn hay một hình ôvan            1
+B   Một hình thoi            
+C   Một hình chữ nhật            
+D   Một hình bình hành            
+               
+               
+54   Mục đích của phương pháp phân tích SA là?            
+A   Phân tích chức năng của hệ thống để thành lập một mô hình               1
+logic về chức năng của hệ thống mới dưới dạng một biểu đồ luồng dữ liệu            
+B   Thực hiện kỹ thuật phân cấp chức năng từ tổng thể đến chi tiết            
+C   Thực hiện kỹ thuật chuyển đổi từ hệ thống cũ sang hệ thống mới            
+D   Thực hiện phân tích ưu khuyết điểm của hệ thống            
+               
+               
+55   Phát biểu nào sau đây là đúng khi nói về sơ đồ dòng dữ liệu (DFD):            
+A   DFD có thể chứa tham số về thời gian            
+B   DFD không cho biết chi tiết về dữ liệu trong các dòng dữ liệu
+cũng như kho dữ liệu      
+C   DFD chỉ ra các mối quan hệ giữa các thực thể            
+D   DFD là cách thông dụng nhất để cấu trúc các yêu cầu của một
+hệ thống            1
+               
+               
+56   Thư mục chứa các hoá đơn đặt hàng được thể hiện trong sơ đồ
+dòng dữ liệu DFD như là:            
+A   Xử lý            
+B   Thực thể            
+C   Kho dữ liệu            1
+D   Dòng dữ liệu            
+               
+               
+57   Biểu đồ luồng dữ liệu biểu diễn sự tương tác giữa các tác nhân
+ngoài với hệ thống gọi là:            
+A   Biểu đồ ERD tổng quát            
+B   Biểu đồ DFD mức đỉnh            
+C   Biểu đồ DFD mức khung cảnh            1
+D   Lược đồ cấu trúc hệ thống            
+               
+               
+58   Loại mô hình nào được tạo ra trong phân tích yêu cầu phần
+mềm:            
+A   Chức năng                  1
+B   Giải thuật và cấu trúc dữ liệu            
+C   Kiến trúc và cấu trúc            
+D   Tính tin cậy và tính sử dụng            
+               
+               
+59   Tác nhân ngoài là gì?            
+A   Một thực thể ngoài hệ thống            1
+B   Một hệ thống con            
+C   Một tác vụ được thực hiện bên ngoài hệ thống            
+ 
+D   Một tập hợp dữ liệu            
+               
+               
+60   Mô hình phân cấp chức năng gồm các thành phần?            
+A   Các chức năng xử lý, các kho dữ liệu, luồng dữ liệu và tác nhân            
+B   Chức năng, mối kết hợp (Relationship), các thực thể            
+C   Chức năng, các thành phần cấu thành hệ thống và mối liên
+kết giữa các thành phần            
+D   Các chức năng và các liên kết            1
+               
+               
+61   Mục đích của giai đoạn phân tích            
+A   Lên kế hoạch và tìm hiểu thông tin chức năng để thực hiện dự án            
+B   Lên mức thiết kế tổng thể cho dự án            
+C   Xác định ưu khuyết điểm hệ thống            1
+D   Xác định phạm vi dự án            
+               
+               
+62   Khi có nhu cầu mượn sách, độc giả sẽ tra cứu đầu sách mình muốn mượn bằng máy tính
+để tìm kiếm mã số của những sách muốn mượn ? Khi mượn sách, độc giả phải điền thông tin
+vào một phiếu mượn (bao gồm: mã độc giả, ngày mượn , mã số sách, thời hạn mượn ...). Thủ
+thư sẽ kiểm tra thẻ độc giả và tra cứu tệp quản lý độc giả và tệp kho sách. Sách mượn
+sẽ được trao cho độc giả nếu thẻ còn hợp lệ và sách được phép cho mượn. Các thông tin
+về việc mượn sách này sẽ được cập nhật vào tệp quản lý mượn /trả sách và tệp kho sách.
+Ngược lại, độc giả sẽ nhận được thông báo từ chối. Khi trả sách, thủ thư lại kiểm tra
+thẻ độc giả và cập nhật thông tin trả sách vào tệp quản lý mượn /trả sách và tệp kho
+sách. Độc giả sẽ nhận được một phiếu xác nhận việc trả sách. Trong trường hợp sách
+mượn quá hạn, độc giả phải nộp tiền phạt và nhận biên lai phạt. Sách trong một phiếu
+mượn có thể được trả làm nhiều lần và độc giả có thể đề nghị gia hạn mượn sách nếu có nhu cầu. Mọi
+thông tin về việc gia hạn sách đều được cập nhật vào tệp quản   
+lý mượn /trả sách và độc giả sẽ nhận được một phiếu gia hạn. Định kì hàng tháng, bộ phận
+ quản lý việc mượn /trả sách sẽ tiến hành lập các báo cáo thống kê gửi lên ban giám đốc thư viện.
+Hãy cho biết hai chức năng của hệ thống còn THIẾU trên biểu đồ FHD dưới đây:
+
+         
+A   Phục vụ tra cứu và gia hạn mượn sách            1
+B   Quản lý mượn và trả sách            
+C   Gia hạn mượn sách và in biên lai            
+D   Kiểm tra thẻ độc giả và phục vụ tra cứu            
+
+               
+
+
+63   Khi có nhu cầu mượn sách, độc giả sẽ tra cứu đầu sách mình muốn mượn bằng máy tính để tìm
+kiếm mã số của những sách muốn mượn ? Khi mượn sách, độc giả phải điền thông tin vào một phiếu
+mượn (bao gồm: mã độc giả, ngày mượn , mã số sách, thời hạn mượn ...). Thủ thư sẽ kiểm tra thẻ
+độc giả và tra cứu tệp quản lý độc giả và tệp kho sách. Sách mượn sẽ được trao cho độc giả nếu
+thẻ còn hợp lệ và sách được phép cho mượn. Các thông tin về việc mượn sách này sẽ được cập nhật
+vào tệp quản lý mượn /trả sách và tệp kho sách. Ngược lại, độc giả sẽ nhận được thông báo từ 
+chối. Khi trả sách, thủ thư lại kiểm tra thẻ độc giả và cập nhật thông tin trả sách vào tệp
+quản lý mượn /trả sách và tệp kho sách. Độc giả sẽ nhận được một phiếu xác nhận việc trả sách.
+Trong trường hợp sách mượn quá hạn, độc giả phải nộp tiền phạt và nhận biên lai phạt. Sách
+trong một phiếu mượn có thể được trả làm nhiều lần và độc giả có thể đề nghị gia hạn mượn
+sách nếu có nhu cầu. Mọi thông tin về việc gia hạn sách đều được cập nhật vào tệp quản lý
+mượn /trả sách và độc giả sẽ nhận được một phiếu gia hạn.
+Định  kì hàng tháng, bộ  phận quản  lý việc mượn  /trả sách sẽ   
+tiến hành lập các báo cáo thống kê gửi lên ban giám đốc thư viện.
+
+Hãy cho biết hai chức năng của hệ thống còn THIẾU trên biểu đồ FHD dưới đây:
+          
+A   Tra cứu độc giả và gia hạn mượn sách            
+B   Quản lý mượn và gia hạn mượn sách            1
+C   Gia hạn mượn sách và báo cáo thống kê            
+D   Kiểm tra thẻ độc giả và phục vụ tra cứu            
+               
+               
+
+
+64   Khi có nhu cầu mượn sách, độc giả sẽ tra cứu đầu sách mình muốn mượn bằng máy tính để tìm
+kiếm mã số của những sách muốn mượn ? Khi mượn sách, độc giả phải điền thông tin vào một phiếu
+mượn (bao gồm: mã độc giả, ngày mượn , mã số sách, thời hạn mượn ...). Thủ thư sẽ kiểm tra thẻ
+độc giả và tra cứu tệp quản lý độc giả và tệp kho sách. Sách mượn sẽ được trao cho độc giả nếu
+thẻ còn hợp lệ và sách được phép cho mượn. Các thông tin về việc mượn sách này sẽ được cập nhật
+vào tệp quản lý mượn /trả sách và tệp kho sách. Ngược lại, độc giả sẽ nhận được thông báo từ chối.
+Khi trả sách, thủ thư lại kiểm tra thẻ độc giả và cập nhật thông tin trả sách vào tệp quản lý mượn
+/trả sách và tệp kho sách. Độc giả sẽ nhận được một phiếu xác nhận việc trả sách. Trong trường
+hợp sách mượn quá hạn, độc giả phải nộp tiền phạt và nhận biên lai phạt. Sách trong một phiếu
+mượn có thể được trả làm nhiều lần và độc giả có thể đề nghị gia hạn mượn sách nếu có nhu cầu.
+Mọi thông tin về việc gia hạn sách đều được cập nhật vào tệp quản lý mượn /trả sách và độc
+giả sẽ nhận được một phiếu gia hạn. Định kì hàng tháng, bộ phận quản lý việc mượn /trả sách
+sẽ tiến hành lập các báo cáo thống kê gửi lên ban giám đốc thư viện.   
+
+Hãy cho biết hai chức năng của hệ thống còn THIẾU trên biểu đồ FHD dưới đây:
+
+             
+A   Tra cứu độc giả và gia hạn mượn sách            
+B   Quản lý mượn và gia hạn mượn sách            
+C   Gia hạn mượn sách và báo cáo thống kê            
+D   Báo cáo thống kê và quản lý trả sách            1
+               
+               
+
+
+65   Khi có nhu cầu mượn sách, độc giả sẽ tra cứu đầu sách mình muốn mượn bằng máy tính để tìm
+kiếm mã số của những sách muốn mượn ? Khi mượn sách, độc giả phải điền thông tin vào một phiếu
+mượn (bao gồm: mã độc giả, ngày mượn , mã số sách, thời hạn mượn ...). Thủ thư sẽ kiểm tra thẻ
+độc giả và tra cứu tệp quản lý độc giả và tệp kho sách. Sách mượn sẽ được trao cho độc giả nếu
+thẻ còn hợp lệ và sách được phép cho mượn. Các thông tin về việc mượn sách này sẽ được cập nhật
+vào tệp quản lý mượn /trả sách và tệp kho sách. Ngược lại, độc giả sẽ nhận được thông báo từ chối.
+Khi trả sách, thủ thư lại kiểm tra thẻ độc giả và cập nhật thông tin trả sách vào tệp quản lý mượn
+/trả sách và tệp kho sách. Độc giả sẽ nhận được một phiếu xác nhận việc trả sách. Trong trường hợp
+sách mượn quá hạn, độc giả phải nộp tiền phạt và nhận biên lai phạt. Sách trong một phiếu mượn
+có thể được trả làm nhiều lần và độc giả có thể đề nghị gia hạn mượn sách nếu có nhu cầu.
+Mọi thông tin về việc gia hạn sách đều được cập nhật vào tệp quản lý mượn /trả sách và độc giả
+sẽ nhận được một phiếu gia hạn. Định kì hàng tháng, bộ phận quản lý việc mượn /trả sách sẽ tiến 
+hành lập các báo cáo thống kê gửi lên ban giám đốc thư viện.
+Hãy cho biết hai chức năng của hệ thống còn THIẾU trên biểu đồ FHD dưới đây:   
+
+
+A   Tra cứu độc giả và gia hạn mượn sách            
+B   Quản lý mượn và gia hạn mượn sách            
+C   Gia hạn mượn sách và báo cáo thống kê            
+D   Báo cáo thống kê và quản lý trả sách            1
+               
+
+
+
+66   Khi có nhu cầu mượn sách, độc giả sẽ tra cứu đầu sách mình muốn mượn bằng máy tính để tìm kiếm mã số
+của những sách muốn mượn ? Khi mượn sách, độc giả phải điền thông tin vào một phiếu mượn (bao gồm: mã
+độc giả, ngày mượn , mã số sách, thời hạn mượn ...). Thủ thư sẽ kiểm tra thẻ độc giả và tra cứu tệp
+quản lý độc giả và tệp kho sách. Sách mượn sẽ được trao cho độc giả nếu thẻ còn hợp lệ và sách được
+phép cho mượn. Các thông tin về việc mượn sách này sẽ được cập nhật vào tệp quản lý mượn /trả sách
+và tệp kho sách. Ngược lại, độc giả sẽ nhận được thông báo từ chối. Khi trả sách, thủ thư lại kiểm
+tra thẻ độc giả và cập nhật thông tin trả sách vào tệp quản lý mượn /trả sách và tệp kho sách. Độc
+giả sẽ nhận được một phiếu xác nhận việc trả sách. Trong trường hợp sách mượn quá hạn, độc giả phải
+nộp tiền phạt và nhận biên lai phạt. Sách trong một phiếu mượn có thể được trả làm nhiều lần và độc
+giả có thể đề nghị gia hạn mượn sách nếu có nhu cầu. Mọi thông tin về việc gia hạn sách đều được cập
+nhật vào tệp quản lý mượn /trả sách và độc giả sẽ nhận được một phiếu gia hạn. Định kì hàng tháng,
+bộ phận quản lý việc mượn /trả sách sẽ tiến hành lập các báo cáo thống kê gửi lên ban giám đốc thư viện.
+
+Hãy cho biết hai chức năng của hệ thống còn THIẾU trên biểu đồ FHD dưới đây:   
+
+
+
+             
+A   Phục vụ tra cứu và báo cáo thống kê            1
+B   Quản lý mượn và gia hạn mượn sách            
+C   Gia hạn mượn sách và báo cáo thống kê            
+D   Kiểm tra sách mượn và quản lý trả sách            
+               
+
+
+67   Hoạt động của hệ thống quản lý việc đăng ký học qua mạng của một trường học
+được mô tả như sau: Khi các học viên muốn đăng ký học thì họ phải gửi các phiếu đăng ký trong đó điền
+đầy đủ thông tin về họ tên, CMND và mã số của những lớp học họ muốn tham gia. Hệ thống kiểm tra từng
+lớp học được đăng ký có còn tiếp nhận học viên không bằng cách tra cứu tệp Danh sách lớp. Tên và số
+CMND của các sinh viên này sẽ được cập nhập vào tệp Danh sách lớp và sĩ số lớp học sẽ được tính lại.
+Nếu lớp học đó đã đủ học viên thì mã lớp học đó sẽ được đánh dấu là đã khoá sổ. Cuối cùng, hệ thống
+sẽ gửi cho từng học viên đăng kí một bản thông báo trong đó liệt kê danh sách những lớp học mà họ đã
+đăng kí và đánh dấu vào những lớp học họ được chấp nhận.
+
+Hãy cho biết ba chức năng của hệ thống còn THIẾU trên biểu đồ DFD trên:      
+
+A   Đăng ký, thông báo nhập học, tổng hợp sỉ sổ            
+B   Ghi danh vào tập tin, thông báo nhập học, tổng hợp sỉ sổ            
+C   Ghi danh vào tập tin, đăng ký, tổng hợp sỉ sổ            
+D   Đăng ký, ghi danh và thông báo nhập học            1
+               
+               
+
+
+68   Hoạt động của hệ thống quản lý việc đăng ký học qua mạng của
+một trường học được mô tả như sau: Khi các học viên muốn đăng ký học thì họ phải gửi các phiếu đăng ký
+trong đó điền đầy đủ thông tin về họ tên, CMND và mã số của những lớp học họ muốn tham gia. Hệ thống kiểm
+tra từng lớp học được đăng ký có còn tiếp nhận học viên không bằng cách tra cứu tệp Danh sách lớp. Tên và
+số CMND của các sinh viên này sẽ được cập nhập vào tệp Danh sách lớp và sĩ số lớp học sẽ được tính lại.
+Nếu lớp học đó đã đủ học viên thì mã lớp học đó sẽ được đánh dấu là đã khoá sổ. Cuối cùng, hệ thống sẽ
+gửi cho từng học viên đăng kí một bản thông báo trong đó liệt kê danh sách những lớp học mà họ đã đăng kí
+và đánh dấu vào những lớp học họ được chấp nhận.
+Hãy cho biết  thành phần của hệ thống còn THIẾU trên biểu đồ DFD trên:   
+
+
+
+A   Đăng ký, hồ sơ học viên, tổng hợp sỉ sổ, học viên            
+B   Học viên, danh sách lớp, học viên, đăng ký            
+C   Đăng ký, học viên, danh sách lớp, hồ sơ học viên            1
+D   Đăng ký, ghi danh và thông báo nhập học            
+               
+               
+
+
+69   Hoạt động của hệ thống quản lý việc đăng ký học qua mạng của một trường học được mô tả như sau: Khi các học
+viên muốn đăng ký học thì họ phải gửi các phiếu đăng ký trong đó điền đầy đủ thông tin về họ tên, CMND và mã số
+của những lớp học họ muốn tham gia. Hệ thống kiểm tra từng lớp học được đăng ký có còn tiếp nhận học viên không
+bằng cách tra cứu tệp Danh sách lớp. Tên và số CMND của các sinh viên này sẽ được cập nhập vào tệp Danh sách lớp
+và sĩ số lớp học sẽ được tính lại. Nếu lớp học đó đã đủ học viên thì mã lớp học đó sẽ được đánh dấu là đã khoá sổ.
+Cuối cùng, hệ thống sẽ gửi cho từng học viên đăng kí một bản thông báo trong đó liệt kê danh sách những lớp học mà
+họ đã đăng kí và đánh dấu vào những lớp học họ được chấp nhận.
+Hãy cho biết thành phần của hệ thống còn THIẾU trên biểu đồ DFD trên:   
+
+
+
+A   Đăng ký, hồ sơ học viên, học viên, danh sách lớp            
+B   Đăng ký, hồ sơ học viên, danh sách lớp, học viên            1
+C   Đăng ký, học viên, danh sách lớp, hồ sơ học viên            
+D   Danh sách lớp, học viên, hồ sơ học viên, danh sách lớp            
+               
+               
+ 
+
+
+
+70   Hoạt động của một hệ thống xử lý bán hàng được mô tả như sau: Khi khách hàng gửi một đơn đặt hàng cho bộ phận tiếp
+nhận đơn hàng, bộ phận này sẽ nhận đơn đặt hàng và trả một biên lai cho khách hàng. Các dữ liệu liên quan tới quá trình
+nhận đơn hàng sẽ được lưu giữ trong tệp Giao dịch. Vào cuối từng ngày, người ta tiến hành xử lý các giao dịch bằng cách 
+lấy các dữ liệu trong tệp Giao dịch kết hợp với việc tra cứu dữ liệu của tệp Kiểm soát bán hàng. Sau đó các dữ liệu lại
+được cập nhật vào tệp Kiểm soát bán hàng, đồng thời một sô dữ liệu được chọn lọc sẽ được lưu trữ vào tệp Phân tích bán hàng.
+Dữ liệu của tệp phân tích bán hàng lại được sử dụng để chuẩn bị cho quá trình phân tích bán hàng. Kết quả được chọn của quá
+trình phân tích bán hàng sẽ được gửi cho những người quản lý có liên quan.
+Hãy cho biết thành phần của hệ thống còn THIẾU trên biểu đồ FHD trên:
+
+ 
+
+   
+A   Tiếp nhận đơn hàng, kiểm soát bán hàng            
+B   Phân tích bán hàng, kiểm soát bán hàng            
+C   Xử lý giao dịch, Phân tích bán hàng            1
+D   Trả biên lai, chọn lọc dữ liệu            
+               
+               
+
+
+71   Hoạt động của một hệ thống xử lý bán hàng được mô tả như sau: Khi khách hàng gửi một đơn đặt hàng cho bộ phận tiếp nhận đơn hàng,
+bộ phận này sẽ nhận đơn đặt hàng và trả một biên  lai cho  khách hàng. Các dữ liệu  liên quan tới quá  trìnhnhận đơn hàng sẽ được lưu giữ trong tệp Giao dịch.
+Vào  cuối từng ngày, người ta tiến hành xử lý các giao dịch bằng cách lấy các dữ liệu trong tệp   Giao
+dịch kết hợp với việc tra cứu dữ liệu của tệp  Kiểm soát bán hàng. Sau đó, các dữ liệu lại được cập nhật vào tệp Kiểm soát bán hàng,
+đồng thời một sô dữ liệu được chọn lọc sẽ được lưu trữ vào tệp Phân tích bán hàng. Dữ liệu của tệp phân tích bán hàng lại được sử dụng
+để chuẩn bị cho quá trình phân tích bán hàng. Kết quả được chọn của quá trình phân tích bán hàng sẽ được gửi cho những người quản lý có liên quan.
+Hãy cho biết  thành phần của hệ thống còn THIẾU trên biểu đồ DFD trên:   
+
+A   Nhận đơn, kiểm soát bán hàng, phân tích bán hàng, người quản lý            1
+B   Kiểm soát bán hàng, nhận đơn, người quản lý, phân tích bán hàng            
+C   Giao dịch, tra cứu dữ liệu, phân tích bán hàng, tiếp nhận đơn hàng            
+D   Tra cứu dữ liệu, phân tích bán hàng, giao dịch, nhận đơn            
+               
+               
+
+
+
+72   Hoạt động của một hệ thống xử lý bán hàng được mô tả như sau: Khi khách hàng gửi một đơn đặt hàng cho bộ phận tiếp nhận đơn hàng, bộ phận này sẽ nhận đơn đặt hàng và trả một biên lai cho khách hàng. Các dữ liệu liên quan tới quá trình nhận đơn hàng sẽ được lưu giữ trong tệp Giao dịch. Vào cuối từng ngày, người ta  tiến  hành  xử lý các  giao dịch bằng cách
+lấy các dữ liệu trong tệp Giao dịch kết hợp với việc tra cứu dữ   
+
+
+liệu của tệp Kiểm soát bán hàng. Sau đó, các dữ liệu lại được cập nhật vào tệp Kiểm soát bán hàng, đồng thời một sô dữ liệu được chọn lọc sẽ được lưu trữ vào tệp Phân tích bán hàng. Dữ liệu của tệp phân tích bán hàng lại được sử dụng để chuẩn bị cho quá trình phân tích bán hàng. Kết quả được chọn của quá trình phân tích bán hàng sẽ được gửi cho những người quản lý có liên quan.
+Hãy cho biết  thành phần của hệ thống còn THIẾU trên biểu đồ DFD trên:            
+A   Nhận đơn, kiểm soát bán hàng, xử lý giao dịch, phân tích bán hàng            
+B   Khách hàng, xử lý giao dịch, kiểm soát bán hàng, phân tích bán hàng            1
+C   Xử lý giao dịch, tra cứu dữ liệu, phân tích bán hàng, tiếp nhận đơn hàng            
+D   Tra cứu dữ liệu, phân tích bán hàng, giao dịch, nhận đơn            
+               
+               
+
+73   Hoạt động của một hệ thống xử lý bán hàng như sau: Khi khách hàng gửi một đơn đặt hàng cho bộ phận tiếp nhận đơn hàng,
+bộ phận này sẽ nhận đơn đặt hàng và trả một biên lai cho khách hàng. Các dữ liệu liên quan tới quá trình nhận đơn hàng sẽ
+được lưu giữ trong tệp Giao dịch. Vào cuối từng ngày, người ta tiến hành xử lý các giao dịch bằng cách lấy các dữ liệu trong
+tệp Giao dịch kết hợp với việc tra cứu dữ liệu của tệp Kiểm soát bán hàng. Sau đó, các dữ liệu lại được cập nhật vào tệp Kiểm
+soát bán hàng, đồng thời một sô dữ liệu được chọn lọc sẽ được lưu trữ vào tệp Phân tích bán hàng. Dữ liệu của tệp phân tích bán
+hàng lại được sử dụng để chuẩn bị cho quá trình phân tích bán hàng. Kết quả được chọn của quá trình phân tích bán hàng sẽ được
+gửi cho những người quản lý có liên quan.
+
+Hãy cho biết  luồng dữ liệu của hệ thống còn THIẾU trên biểu đồ DFD trên:   
+
+A   Dữ liệu giao dịch, dữ liệu được chọn, thông tin giao dịch, kết quả bán hàng              1
+B   Dữ liệu được chọn, thông tin giao dịch, kết quả bán hàng, dữ liệu giao dịch            
+C   Dữ liệu giao dịch, dữ liệu được chọn, kết quả bán hàng, thông tin giao dịch            
+D   Dữ liệu giao dịch, thông tin giao dịch, kết quả bán hàng, dữ liệu được chọn            
+               
+               
+
+74   Hoạt động của một hệ thống xử lý bán hàng như sau: Khi khách hàng
+gửi một đơn đặt hàng cho bộ phận tiếp nhận đơn hàng, bộ phận này sẽ
+nhận đơn đặt hàng và trả một biên lai cho khách hàng. Các dữ liệu liên quan tới quá trình nhận đơn hàng sẽ được
+lưu giữ trong tệp Giao dịch. Cuối ngày, người ta tiến hành xử lý các giao dịch bằng cách lấy các dữ liệu trong
+tệp Giao dịch kết hợp với việc tra cứu dữ liệu của tệp Kiểm soát bán hàng. Sau đó, các dữ liệu lại được cập nhật
+vào tệp Kiểm soát bán hàng, đồng thời một sô dữ liệu được chọn lọc sẽ được lưu trữ vào tệp Phân tích bán hàng.
+Dữ liệu của tệp phân tích bán hàng lại được sử dụng để chuẩn bị cho quá trình phân tích bán hàng. Kết quả được
+chọn của quá trình phân tích bán hàng sẽ được gửi cho những người quản lý có liên quan.
+Hãy cho biết  thành phần của hệ thống còn THIẾU trên biểu đồ DFD trên:   
+
+A   Nhận đơn, báo cáo, kiểm soát bán hàng            
+B   Phân tích bán hàng, xử lý giao dịch, nhận đơn            
+C   Nhận đơn, xử lý giao dịch, phân tích bán hàng            1
+D   Xử lý giao dịch, báo cáo, nhận đơn            
+               
+               
+
+75   Các công cụ chủ yếu diễn tả dữ liệu bao gồm:      1      
+
+ 
+A   Mã hoá dữ liệu            
+B   Từ điển dữ liệu            
+C   Mô hình thực thể liên kết, mô hình quan hệ            
+D   Từ điển, các mô hình dữ liệu            1
+               
+               
+76   Thuộc tính dùng để phân biệt bản thể là      1      
+A   Thuộc tính tên gọi            
+B   Thuộc tính định danh            1
+C   Thuộc tính mô tả            
+D   Thuộc tính lặp            
+               
+               
+77   Đặc trưng của quan hệ là      1      
+A   Bậc            
+B   Bản số            
+C   Loại            
+D   Bậc, bản số và loại            1
+               
+               
+78   Mô hình khái niệm dữ liệu và sơ đồ E_R khác nhau ở chỗ:      1      
+A   Bản chất            
+B   Ký hiệu            
+C   Cách biểu diễn            1
+D   Mục đích            
+               
+               
+
+79   Trong phương pháp xây dựng mô hình khái niệm dữ liệu, việc nhận diện một quan hệ kiểu 1-N giữa  thực thể thể hiện bằng
+sự hiện hữu của một phụ thuộc hàm:   
+   
+1   
+   
+A   Giữa  phần tử của tập khoá            1
+B   Nếu gốc của phụ thuộc hàm bao gồm ít nhất  phần tử thuộc
+khoá            
+ 
+C   Phần tử vế trái phụ thuộc hàm không phải là khoá            
+D   Phần tử vế phải phụ thuộc hàm không phải là khoá            
+               
+               
+80   Khoá thường   so với khoá tối thiểu      1      
+A   Dài hơn            1
+B   Ngắn hơn            
+C   Bằng            
+D   Ngắn hơn hoặc bằng            
+               
+               
+81   Trong quan hệ có số khoá tối thiểu:      1      
+A   Chỉ có một            1
+B   Có nhiều            
+C   Có thể không có            
+D   Không bắt buộc            
+               
+               
+82   Thuật toán tính khoá tối thiểu luôn xuất phát từ      1      
+A   Một khoá            
+B   Tập thuộc tính không cần là khoá            1
+C   Cả không gian            
+D   Tập thuộc tính bao gồm khóa            
+               
+               
+83   Chuẩn hoá là một quá trình chuyển một cấu trúc dữ liệu phức
+tạp thành các cấu trúc dữ liệu:      1      
+A   Tốt hơn            
+B   Đơn giản hơn            1
+C   Vừa tốt vừa đơn giản hơn            
+D   Phức tạp hơn            
+               
+ 
+               
+84   Một bảng dữ liệu bất kỳ có thể coi là   ?      1      
+A   Quan hệ            1
+B   Cơ sở dữ liệu            
+C   Thuộc tính            
+D   Mẫu tin            
+               
+               
+85   Mối quan hệ mà trong đó một thực thể của tập thực thể này có
+quan hệ với nhiều thực thể của tập thực thể kia là:      1      
+A   Quan hệ nhiều - nhiều.            
+B   Quan hệ một - một.            
+C   Quan hệ một - nhiều.            1
+D   Quan hệ kế thừa            
+               
+               
+86   Khi gặp quan hệ nhiều - nhiều, thường thực hiện:      1      
+A   Tách thành hai quan hệ một - nhiều.            1
+B   Gộp hai tập thực thể thành một tập thực thể.            
+C   Xoá đi một quan hệ            
+D   Tách thành hai quan hệ một – một.            
+               
+               
+87   Thành phần nào dưới đây KHÔNG phải của mô hình ERD?      1      
+A   Kiểu thực thể            
+B   Thuộc tính            
+C   Mối kết hợp            
+D   Quan hệ            1
+               
+               
+88   Từ điển dữ liệu chứa những mô tả của mỗi:      1      
+A   Danh mục cấu hình phần mềm            
+ 
+B   Đối tượng dữ liệu phần mềm            1
+C   Biểu đồ phần mềm            
+D   Hệ thống ký hiệu phần mềm            
+               
+               
+89   Trong thiết kế CSDL, lược đồ logic là?      1      
+A   Cấu trúc lưu trữ thực sự của dữ liệu trong bộ nhớ ngoài            
+B   Một dạng trung gian trước khi đến lược đồ vật lý            1
+C   Một lược đồ quan hệ            
+D   Lược đồ chức năng            
+               
+               
+90   Biểu đồ nào có thể chuyển sang lược đồ quan hệ:      1      
+A   Biểu đồ luồng dữ liệu            
+B   Biểu đồ phân cấp chức năng            
+C   Biểu đồ thực thể kết hợp            1
+D   Biểu đồ nghiệp vụ            
+               
+               
+
+91   Chọn mô hình Dữ liệu quan hệ tương ứng với mô hình thực thể bán hàng như sau:            
+ 
+A   KHACHHANG(MAKH, HOTEN, DIACHI, DIENTHOAI) HOADON(SOHD,NGAYLAPHD,NGAYBAN,SLBAN,MAKH) NHOMHANG(MANHOM,TENNHOM)
+MATHANG(MAHANG, TENHANG,DONGIA,DONVT,MANHOM)
+CHITIETHD(MAHANG,SOHD,SL,)            
+
+
+B   KHACHHANG(MAKH, HOTEN, DIACHI, DIENTHOAI) HOADON(SOHD,NGAYLAPHD,NGAYBAN,SLBAN,MAHANG) NHOMHANG(MANHOM,TENNHOM)
+MATHANG(MAHANG, TENHANG,DONGIA,DONVT,MANHOM) CHITIETHD(MAHANG,SOHD,SL,)            
+
+
+C   KHACHHANG(MAKH, HOTEN, DIACHI, DIENTHOAI) HOADON(SOHD,NGAYLAPHD,NGAYBAN,SLBAN,MAKH) NHOMHANG(MANHOM,TENNHOM) MATHANG(MAHANG, TENHANG,DONGIA,DONVT) CHITIETHD(MAHANG,SOHD,SL,)            
+
+
+D   KHACHHANG(MAKH, HOTEN, DIACHI, DIENTHOAI) HOADON(SOHD,NGAYLAPHD,NGAYBAN,SLBAN,MAKH) NHOMHANG(MANHOM,TENNHOM)
+MATHANG(MAHANG, TENHANG,DONGIA,DONVT,MANHOM) CHITIETHD(SOHD,SL,)            
+               
+               
+
+92   Chọn mô hình Dữ liệu quan hệ tương ứng với mô hình thực
+thể quản lý nhân công như sau:   
+
+A   CONGTRINH(MACT,TENCT,DIADIEM,NGAYCAPGP,NGAYKC,N GAYHT) NHANVIEN(MANV,HOTEN,NGAYSINH,PHAI,DIACHI,MAPB) PHONGBAN(MAPB,TENPB)
+SONGAYCONG(MANV,MACT,SL,NGAYCONG)            1
+
+B   CONGTRINH(MACT,TENCT,DIADIEM,NGAYCAPGP,NGAYKC,N GAYHT) NHANVIEN(MANV,HOTEN,NGAYSINH,PHAI,DIACHI,MAPB) PHONGBAN(MAPB,TENPB)
+SONGAYCONG(MACT,SL,NGAYCONG)            
+
+C   CONGTRINH(MACT,TENCT,DIADIEM,NGAYCAPGP,NGAYKC,N GAYHT) NHANVIEN(MANV,HOTEN,NGAYSINH,PHAI,DIACHI,MAPB) PHONGBAN(MAPB,TENPB)
+SONGAYCONG(MANV ,SL,NGAYCONG)            
+
+D   CONGTRINH(MACT,TENCT,DIADIEM,NGAYCAPGP,NGAYKC,N GAYHT)
+NHANVIEN(MANV,HOTEN,NGAYSINH,PHAI,DIACHI) PHONGBAN(MAPB,TENPB)
+SONGAYCONG(MANV,MACT,SL,NGAYCONG)            
+               
+               
+93   Chọn một khẳng định nào sau đây là đúng nhất:
+ 
+A   Cấu trúc dữ liệu trong các quan hệ 1NF đơn giản            
+B   Cấu trúc dữ liệu trong các quan hệ 1NF cho phép sửa đổi bổ sung            
+C   Cấu trúc dữ liệu trong các quan hệ 1NF gây khó khăn truy vấn            
+D   Cấu trúc dữ liệu trong các quan hệ 1NF ẩn chứa dị thường thông            1
+               
+               
+94   Quá trình chuẩn hoá dữ liệu là quá trình:      1      
+A   Tách lược đồ quan hệ hạn chế thấp nhất tổn thất thông tin.            
+B   Thực hiện các phép tìm kiếm dữ liệu.            
+C   Chuyển đổi biểu diễn thông tin trong các dạng khác nhau            
+D   Tách lược đồ quan hệ không làm tổn thất thông tin.            1
+               
+               
+95   Một mô hình CSDL được xem là mô hình chuẩn hoá tốt,      1      
+A   Không xuất hiện dị thường thông tin.            
+B   Đảm bảo tính độc lập dữ liệu.            
+C   Mỗi một thuộc tính không khoá phụ thuộc hàm vào khoá.            1
+D   Mỗi một thuộc tính được biểu diễn trong dạng duy nhất.            
+               
+               
+96   Chọn một khẳng định nào sau đây là đúng nhất: khi nói về cách nhận biết quan hệ dạng chuẩn 3NF            
+A   Không tồn tại phụ thuộc X  Y  F+ , Y X và X+ Ω.         1
+B   Tập các thuộc tính khóa bằng rỗng
+C   Tập các thuộc tính không khóa khác rỗng
+D   Tồn tại phụ thuộc X  Y  F+ , Y X hoặc X+ Ω
+            
+               
+               
+97   Quan hệ R được gọi là dạng chuẩn 2NF, khi và chỉ khi:            
+A   1NF và các thuộc tính không khoá phụ thuộc đầy đủ vào            1
+B   1NF và các thuộc tính không khoá phụ thuộc không đầy đủ            
+C   Tồn tại X Y + sao cho X là tập con của khóa và Y là thuộc            
+D   1NF và tồn tại các thuộc tính không khoá phụ thuộc đầy đủ            
+               
+               
+98   Quan hệ gồm các thuộc tính: mã số, họ tên và địa chỉ ở            
+A   Dạng chuẩn 3NF            1
+B   Dạng chuẩn 2NF, không là 3NF            
+C   Dạng chuẩn 1NF, không là 2NF            
+ 
+D   Dạng chuẩn 2NF            
+               
+               
+
+99   Q (SV, MH, THAY) ;  = {SV,MH  THAY; THAY MH}. Quan hệ này đạt dạng chuẩn cao nhất?            
+A   Đạt chuẩn BCNF            
+B   Đạt chuẩn 3NF            1
+C   Đạt chuẩn 2NF            
+D   Đạt chuẩn 1NF            
+               
+               
+100   Q(A, B, C, D)            
+A   Đạt chuẩn BCNF            
+B   Đạt chuẩn 3NF            
+C   Đạt chuẩn 2NF            1
+D   Đạt chuẩn 1NF            
+               
+               
+101   Trong các nhân tố ảnh hưởng đến độ dễ hiểu, nhân tố nào được tập trung nhất trong công việc về đo chất lượng thiết kế:            
+A   Độ phức tạp tổ chức dữ liệu            1
+B   Kiểu cách mô tả thiết kế            
+C   Nhân tố khác            
+D   Yêu cầu            
+               
+               
+102   Thiết kế đầu ra có cách tiếp cận:            
+A   Chất lượng tổng thể            
+B   Có cấu trúc            
+C   Cấu trúc tổng thể            1
+D   Trực tiếp            
+               
+               
+103   Sản phẩm trung gian của hệ thống là            
+A   Đầu ra ngoài hệ thống            
+B   Đầu ra trong hệ thống            1
+C   Bất kể đầu ra nào của hệ thống            
+D   Đầu vào ngoài hệ thống            
+               
+               
+104   Công cụ chính được sử dụng để thiết kế khuôn dạng đầu ra là            
+A   Các tài liệu đặc tả yêu cầu của báo cáo            1
+B   Các trang định dạng in ra            
+C   Các tài liệu đặc tả yêu cầu            
+D   Tập tin trên máy tính            
+               
+               
+105   Trong thiết kế, module là các thành phần của phần mềm, thì module:            
+A   Chỉ cần có tên riêng biệt            1
+B   Chỉ cần định địa chỉ được            
+C   Vừa có tên riêng biệt, vừa định địa chỉ được            
+D   Tên có thể trùng nhau            
+               
+               
+106   Module được đặc tả và thiết kế sao cho thông tin được chứa trong module này            
+A   Có thể thâm nhập từ các module khác            
+B   Không thể thâm nhập            1
+C   Thâm nhập khi cần thiết đủ để điều khiển            
+D   Thâm nhập giới hạn            
+               
+               
+107   Hệ thống tương tác trên màn hình cho phép :            
+A   NSD lựa chọn đường dẫn phù hợp            
+B   NSD điều khiển hiện màn hình            
+C   NSD liên kết với các module xử lý            
+D   NSD thực hiện thao tác            1
+               
+               
+108   Phương pháp tinh chỉnh từng bước phản ánh thiết kế:            
+A   Kiểu top-down            1
+B   Kiểu down- top            
+C   Kết hợp            
+D   Không cần kiểu nào cả            
+               
+               
+109   Một lược đồ chương trình được lập đòi hỏi            
+A   Chỉ cần thêm các module vào ra, đặc biệt là thêm module điều khiển            
+B   Chỉ cần thiết lập các lời gọi            
+C   Đòi hỏi module vào ra kết hợp với thiết lập các lời gọi            1
+D   Không đòi hỏi gì cả            
+               
+               
+110   Việc chuyển mỗi chức năng xử lý thành một module chương trình là            
+A   Không bắt buộc            1
+B   Luôn bắt buộc            
+C   Không cần chuyển            
+D   Chuyển thành nhiều module khác nhau            
+               
+               
+111   Việc phân tích xác định kiểm soát nhằm thực hiện ý đồ            
+A   Xác định điểm hở và kiểu đe doạ từ điểm hở trong hệ thống            
+B   Lựa chọn cũng như thiết kế kiểm soát cần thiết            
+C   Xác định tình trạng đe doạ            
+D   Xác định điểm hở, tình trạng đe dọa nhằm thiết kế kiểm soát            1
+               
+ 
+               
+
+112   Trong các cách thiết kế để đảm bảo sự an toàn của thông tin, cách xây dựng các thủ tục phục hồi là:   
+   
+A   Luôn có ích            
+B   Không phải bao giờ cũng có ích thực sự            1
+C   Không có ích            
+D   Có ích không đáng kể            
+               
+               
+113   Trong các chiến lược chuyển đổi hệ thống thông tin cũ sang
+mới, chiến lược nào mang tính rủi ro cao nhất:            
+A   Chuyển đổi trực tuyến            1
+B   Chuyển đổi song song            
+C   Chuyển đổi bộ phận            
+D   Chuyển đổi theo giai đoạn            
+               
+               
+114   Chọn thứ tự ưu tiên đúng các biện pháp thực hiện an toàn dữ liệu:            
+A   Thiết lập các nguyên tắc quản lý,Sử dụng các thiết bị lưu trữ
+an toàn,Sử dụng các trang thiết bị an toàn            1
+B   Thiết lập các nguyên tắc quản lý, Sử dụng các trang thiết bị an
+toàn, Sử dụng các thiết bị lưu trữ an toàn            
+C   Sử dụng các thiết bị lưu trữ an toàn, Thiết lập các nguyên tắc
+quản lý, Sử dụng các trang thiết bị an toàn            
+D   Sử dụng các thiết bị lưu trữ an toàn,Sử dụng các trang thiết bị
+an toàn, Thiết lập các nguyên tắc quản lý            
+               
+               
+115   Việc cài đặt hệ thống            
+A   Chỉ bao gồm các phần mềm ứng dụng            
+B   Chỉ bao gồm các phần mềm hệ thống            
+C   Thiết bị máy tính và các thiết bị truyền thông            
+D   Phần mềm ứng dụng, hệ thống, máy tính và các thiết bị truyền thông         1         
+               
+               
+116   Việc tổ chức một mạng tin học bao gồm:            
+A   Quản lý mạng tin học            
+B   Quản lý thiết bị, hệ thống mạng, sự cố            
+C   Bảo trì phần mềm            
+D   Quản lý thiết bị, hệ thống mạng, phát hiện sự cố phần mềm            1
+               
+               
+117   Phần mềm được hiểu là            
+A   Chương trình            
+B   Chương trình và CSDL            
+C   Chương trình và CSDL và các tài liệu PT_TK, hướng dẫn sử dụng            1
+D   Cơ sở dữ liệu            
+               
+               
+118   Phương tiện đầu ra phổ biến là            
+A   Giấy            1
+B   Microfilm            
+C   Vi phim            
+D   Tập tin trên máy tính            
+               
+               
+119   Tài liệu nào sau đây thường dùng mã giả để mô tả:            
+A   Báo cáo khảo sát hệ thống            
+B   Các sưu liệu            
+C   Từ điển dữ liệu            
+D   Tài liệu đặc tả tiến trình         1
+               
+               
+ 
+120   Bảo trì hệ thống gồm            
+A   Sửa lỗi, khắc phục sự cố            
+B   Điều chỉnh theo yêu cầu mới, khắc phục sự cố            
+C   Cải thiện hiệu năng hệ thống, khắc phục sự cố            
+D   Sửa lỗi, khắc phục sự cố, điều chỉnh theo yêu cầu,
+nâng cấp hệ thống         1
+               
+               
