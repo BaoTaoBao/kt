@@ -714,13 +714,15 @@ D   Tra cứu dữ liệu, phân tích bán hàng, giao dịch, nhận đơn
                
 
 
-
-72   Hoạt động của một hệ thống xử lý bán hàng được mô tả như sau: Khi khách hàng gửi một đơn đặt hàng cho bộ phận tiếp nhận đơn hàng, bộ phận này sẽ nhận đơn đặt hàng và trả một biên lai cho khách hàng. Các dữ liệu liên quan tới quá trình nhận đơn hàng sẽ được lưu giữ trong tệp Giao dịch. Vào cuối từng ngày, người ta  tiến  hành  xử lý các  giao dịch bằng cách
+72   Hoạt động của một hệ thống xử lý bán hàng được mô tả như sau: Khi khách hàng gửi một đơn đặt hàng cho bộ phận tiếp nhận đơn hàng, bộ phận này
+sẽ nhận đơn đặt hàng và trả một biên lai cho khách hàng. Các dữ liệu liên quan tới quá trình nhận đơn hàng sẽ được lưu giữ trong tệp Giao dịch.
+Vào cuối từng ngày, người ta  tiến  hành  xử lý các  giao dịch bằng cách
 lấy các dữ liệu trong tệp Giao dịch kết hợp với việc tra cứu dữ   
+liệu của tệp Kiểm soát bán hàng. Sau đó, các dữ liệu lại được cập nhật vào tệp Kiểm soát bán hàng, đồng thời một sô dữ liệu được chọn lọc sẽ được lưu
+trữ vào tệp Phân tích bán hàng. Dữ liệu của tệp phân tích bán hàng lại được sử dụng để chuẩn bị cho quá trình phân tích bán hàng. Kết quả được chọn của
+quá trình phân tích bán hàng sẽ được gửi cho những người quản lý có liên quan.
+Hãy cho biết  thành phần của hệ thống còn THIẾU trên biểu đồ DFD trên: 
 
-
-liệu của tệp Kiểm soát bán hàng. Sau đó, các dữ liệu lại được cập nhật vào tệp Kiểm soát bán hàng, đồng thời một sô dữ liệu được chọn lọc sẽ được lưu trữ vào tệp Phân tích bán hàng. Dữ liệu của tệp phân tích bán hàng lại được sử dụng để chuẩn bị cho quá trình phân tích bán hàng. Kết quả được chọn của quá trình phân tích bán hàng sẽ được gửi cho những người quản lý có liên quan.
-Hãy cho biết  thành phần của hệ thống còn THIẾU trên biểu đồ DFD trên:            
 A   Nhận đơn, kiểm soát bán hàng, xử lý giao dịch, phân tích bán hàng            
 B   Khách hàng, xử lý giao dịch, kiểm soát bán hàng, phân tích bán hàng            1
 C   Xử lý giao dịch, tra cứu dữ liệu, phân tích bán hàng, tiếp nhận đơn hàng            
